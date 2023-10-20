@@ -30,10 +30,10 @@ description: >-
   [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
   [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: KeunhongP
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
 github_username: WangRongsheng
-google_scholar: HVZb-5oAAAAJ
+google_scholar: SSaBaioAAAAJ
 google_analytics: G-MFWSBLRKG0
 
 # Build settings
