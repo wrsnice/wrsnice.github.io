@@ -14,6 +14,24 @@
   awards:
     - "Journal Paper"
 
+- id: PCTMF-Net
+  title: "PCTMF-Net: heart sound classification with parallel CNNs-transformer and second-order spectral analysis"
+  venue: The Visual Computer, 2023
+  description: "No description."
+  project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:zYLM7Y9cAGgC"
+  image: camp_before.jpg
+  image_mouseover: camp_after.mp4
+  authors:
+    - Rongsheng Wang
+    - Yaofei Duan
+    - Yukun Li
+    - Dashun Zheng
+    - Xiaohong Liu
+    - Chan Tong Lam
+    - Tao Tan
+  awards:
+    - "Journal Paper"
+
 - id: LightR-YOLOv5
   title: "LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results"
   venue: Displays, 2023
