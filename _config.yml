@@ -23,18 +23,14 @@ name: Rongsheng Wang
 position: MSc
 email: wrs6@88.com
 description: >-
-  I am a MSc at [Google](https://ai.google/research/), where I work on photorealistic 3D reconstruction at internet scale.
+  I am a Master at [Macao Polytechnic University](https://www.mpu.edu.mo/zh/index.php).
 
-
-  Previously, I was a Ph. D student at the [University of Washington](https://grail.cs.washington.edu/) advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: WangRongsheng
 google_scholar: SSaBaioAAAAJ
-google_analytics: G-MFWSBLRKG0
+google_analytics:
 
 # Build settings
 theme: minima
