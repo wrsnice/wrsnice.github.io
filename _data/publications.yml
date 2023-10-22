@@ -3,8 +3,8 @@
   venue: Visual Computing for Industry, Biomedicine, and Art, 2023
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:Y0pCki6q_DkC"
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
+  image: j.jpg
+  # image_mouseover: c.mp4
   authors:
     - Dashun Zheng
     - Rongsheng Wang
@@ -19,8 +19,8 @@
   venue: The Visual Computer, 2023
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:zYLM7Y9cAGgC"
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
+  image: j.jpg
+  # image_mouseover: camp_after.mp4
   authors:
     - Rongsheng Wang
     - Yaofei Duan
@@ -39,8 +39,8 @@
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:Tyk-4Ss8FVUC"
   arxiv: 2307.10512
   github: WangRongsheng/IvyGPT
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
+  image: c.jpg
+  # image_mouseover: camp_after.mp4
   authors:
     - Rongsheng Wang
     - Yaofei Duan
@@ -59,8 +59,8 @@
   venue: Displays, 2023
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&citation_for_view=SSaBaioAAAAJ:d1gkVwhDpl0C"
-  image: camp_before.jpg
-  image_mouseover: camp_after.mp4
+  image: j.jpg
+  # image_mouseover: camp_after.mp4
   authors:
     - Rongsheng Wang
     - Yaofei Duan
@@ -78,8 +78,8 @@
   venue: CISCE, 2023
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:UeHWp8X0CEIC"
-  image: hypernerf_before.jpg
-  image_mouseover: hypernerf_after.mp4
+  image: c.jpg
+  # image_mouseover: hypernerf_after.mp4
   authors:
     - Yaofei Duan
     - Rongsheng Wang
@@ -90,8 +90,8 @@
   venue: easyChair, 2023
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:2osOgNQ5qMEC"
-  image: fignerf_before.jpg
-  image_mouseover: fignerf_after.mp4
+  image: p.jpg
+  # image_mouseover: fignerf_after.mp4
   authors:
     - Rongsheng Wang
     - Yaofei Duan
@@ -103,8 +103,8 @@
   venue: International Conference on Universal Village, 2022
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:IjCSPb-OGe4C"
-  image: nerfies_before.jpg
-  image_mouseover: nerfies_after.mp4
+  image: c.jpg
+  # image_mouseover: nerfies_after.mp4
   authors:
     - Rongsheng Wang
     - Yukun Li
@@ -116,8 +116,8 @@
   venue: Advances in International Computer Science, 2022
   description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:u-x6o8ySG0sC"
-  image: latentfusion_before.jpg
-  image_mouseover: latentfusion_after.mp4
+  image: j.jpg
+  # image_mouseover: latentfusion_after.mp4
   authors:
     - Hui Ning
     - Rongsheng Wang
