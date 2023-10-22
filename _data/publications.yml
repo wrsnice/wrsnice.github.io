@@ -51,6 +51,28 @@
   awards:
     - "Journal Paper"
 
+- id: IvyGPT
+  title: "IvyGPT: InteractiVe Chinese pathwaY language model in medical domain"
+  venue: CICAI, 2023
+  description: "No description."
+  project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:Tyk-4Ss8FVUC"
+  arxiv: 2307.10512
+  github: WangRongsheng/IvyGPT
+  image: camp_before.jpg
+  image_mouseover: camp_after.mp4
+  authors:
+    - Rongsheng Wang
+    - Yaofei Duan
+    - Chan Tong Lam
+    - Jiexi Chen
+    - Jiangsheng Xu
+    - Haoming Chen
+    - Xiaohong Liu
+    - Patrick Cheong-Iao Pang
+    - Tao Tan
+  awards:
+    - "Demo Paper"
+
 - id: hypernerf
   title: "HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields"
   venue: SIGGRAPH Asia, 2021
