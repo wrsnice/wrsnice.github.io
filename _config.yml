@@ -26,6 +26,7 @@ description: >-
   I am a M.S. at [Macao Polytechnic University](https://www.mpu.edu.mo/zh/index.php). My research interests in computer vision, medical AI, and LLM. I keep my passion for all research.
 
   <font color="#a416af" style="font-weight:600;"> I am seeking a PhD. opportunity for fall 2024 enrollment. If you are interested in me, please email me. [<a href="mailto:wrs6@88.com">wrs6@88.com</a>]  </font>
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wrsnice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
