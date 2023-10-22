@@ -1,7 +1,23 @@
+- id: Focus-RCNet
+  title: "Focus-RCNet: a lightweight recyclable waste classification algorithm based on focus and knowledge distillation"
+  venue: Visual Computing for Industry, Biomedicine, and Art, 2023
+  description: "No description."
+  project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&sortby=pubdate&citation_for_view=SSaBaioAAAAJ:Y0pCki6q_DkC"
+  image: camp_before.jpg
+  image_mouseover: camp_after.mp4
+  authors:
+    - Dashun Zheng
+    - Rongsheng Wang
+    - Yaofei Duan
+    - Patrick Cheong-Iao Pang
+    - Tao Tan
+  awards:
+    - "Journal Paper"
+
 - id: LightR-YOLOv5
   title: "LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results"
   venue: Displays, 2023
-  description: "Preconditioning camera optimization during NeRF training significantly improves their ability to jointly recover the scene and camera parameters."
+  description: "No description."
   project_page: "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=SSaBaioAAAAJ&citation_for_view=SSaBaioAAAAJ:d1gkVwhDpl0C"
   image: camp_before.jpg
   image_mouseover: camp_after.mp4
