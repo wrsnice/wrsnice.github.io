@@ -2,8 +2,7 @@
   title: "LightR-YOLOv5: A compact rotating detector for SARS-CoV-2 antigen-detection rapid diagnostic test results"
   venue: Displays, 2023
   description: "Preconditioning camera optimization during NeRF training significantly improves their ability to jointly recover the scene and camera parameters."
-  project_page: ""
-  arxiv:
+  project_page: "https://www.sciencedirect.com/science/article/pii/S0141938223000367"
   image: camp_before.jpg
   image_mouseover: camp_after.mp4
   authors:
