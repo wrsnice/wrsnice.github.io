@@ -31,6 +31,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wrsnice.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: WangRongsheng
+zhihu_username: wang-rong-sheng-74
 google_scholar: SSaBaioAAAAJ
 google_analytics:
 
